@@ -1,0 +1,66 @@
+body
+{
+	font-family: "Roboto", sans-serif;
+}
+.w3-sidebar
+{
+	 display:none;
+	 z-index:2;
+} 
+.contem
+{
+  margin-left: 35%;
+} 
+.w3-circle
+{
+	margin-left: 1%;
+}
+#display
+{
+	width:100%;
+	min-height:350px;
+	max-height:600px;
+	height: 300px;
+	filter: brightness(40%);
+}
+#logo
+{
+  width: 35px;
+  height: 25px;
+  position: relative;
+  margin-left: 20%;
+  margin-top: .5%;
+
+}
+
+h2
+{
+	letter-spacing: 2px;
+	text-align: center;
+}
+.exemplos
+{
+	width:100%;
+	height:200px;
+}
+footer
+{
+	width: auto;
+}
+.avatar
+{
+	width: 100%;
+	height: 250px;
+}
+#educ
+{
+	height: auto;
+}
+.itens
+{
+	width: 160px;
+	height: 100px;
+	max-width: 200px;
+	max-height: 150px;
+
+}
